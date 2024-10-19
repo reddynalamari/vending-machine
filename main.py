@@ -1,3 +1,8 @@
+'''
+Name        : N. Shashidhar Reddy
+Topic       : Food Vending Machine
+'''
+
 import customtkinter as tk
 from tkinter import messagebox as mbx
 from tkinter.simpledialog import askstring as ast
