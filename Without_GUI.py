@@ -1,10 +1,5 @@
 ''' 
-Week 5 project - COHO
-
 Name        : N. Shashidhar Reddy
-Dep         : AIML
-Roll        : 21K81A7340
-Date        : 25/05/2023
 Topic       : Food Vending Machine
 Discription : This a simulation of a vending machine. This code will take input from user to buy items and 
               The amount should be entered and the process will be continued until the user exit.
